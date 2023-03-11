@@ -1,1 +1,3 @@
 # Cronus
+
+node . to run
